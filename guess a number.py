@@ -1,5 +1,4 @@
 #we guess computer number
-
 import random
 
 def guess(x):
