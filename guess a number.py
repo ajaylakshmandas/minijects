@@ -13,8 +13,6 @@ def guess(x):
 
   print(f"yes you got the right answer {random_number} correctly")
 
-
-  
 guess(10)
 
 
